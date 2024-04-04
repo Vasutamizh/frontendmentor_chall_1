@@ -135,7 +135,7 @@ h5 {
     body{
         margin: 0px;
         padding: 0px;
-        width: 375px;
+        width: 100%;
     }
     .container {
         margin-left: 0px;
