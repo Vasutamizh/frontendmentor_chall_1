@@ -131,7 +131,7 @@ h5 {
     width: fit-content;
 }
 
-@media screen and (max-width:375px) {
+@media screen and (max-width:450px) {
     body{
         margin: 0px;
         padding: 0px;
